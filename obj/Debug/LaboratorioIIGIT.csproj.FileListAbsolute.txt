@@ -1,0 +1,8 @@
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\bin\Debug\LaboratorioIIGIT.exe.config
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\bin\Debug\LaboratorioIIGIT.exe
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\bin\Debug\LaboratorioIIGIT.pdb
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\obj\Debug\LaboratorioIIGIT.csproj.AssemblyReference.cache
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\obj\Debug\LaboratorioIIGIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\obj\Debug\LaboratorioIIGIT.csproj.CoreCompileInputs.cache
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\obj\Debug\LaboratorioIIGIT.exe
+C:\Users\Julia Gaeto\source\repos\LaboratorioIIGIT\obj\Debug\LaboratorioIIGIT.pdb
