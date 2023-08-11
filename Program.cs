@@ -10,8 +10,8 @@ namespace LaboratorioIIGIT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Julia Gaeto");
+            Console.WriteLine("Hello");
+            Console.WriteLine("Julia");
             Console.ReadKey();
         }
     }
